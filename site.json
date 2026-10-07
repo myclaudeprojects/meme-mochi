@@ -1,0 +1,45 @@
+{
+  "ticker": "MOCHI",
+  "ticker_lower": "mochi",
+  "name": "Mochi",
+  "character": {
+    "name": "Mochi",
+    "one_liner": "Soft-spoken otter who naps a lot and somehow always has snacks.",
+    "visual": "Cute otter with soft brown fur, round cheeks, gentle eyes, and a cozy snack-ready vibe"
+  },
+  "tagline": "Soft naps. Soft vibes. Soft coin.",
+  "blurb": "Mochi is the friend who shares snacks and stillness. Keep it cute. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/mochi.webp",
+  "palette": {
+    "primary": "#9b8cff",
+    "secondary": "#9dffb0",
+    "accent": "#d4b5ff",
+    "bg": "#f5fff9"
+  },
+  "design": {
+    "seed": "b5d4b3e9beac4a8c",
+    "palette_family": "mint_lilac",
+    "palette_source": "generated",
+    "layout": "split",
+    "layout_source": "generated",
+    "layout_label": "Character left / copy right (stacks on mobile)",
+    "font_pair": "baloo_quicksand",
+    "font_source": "generated",
+    "font_display": "Baloo 2",
+    "font_body": "Quicksand",
+    "font_google": "family=Baloo+2:wght@400;500;600;700;800&family=Quicksand:wght@400;500;600;700"
+  },
+  "request_id": "mochi-2026-10-07-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Mochi woke up already soft. Somewhere between a riverbank nap and a snack break, the little otter decided the timeline needed more quiet joy.\n\nFriends say Mochi always has something to share \u2014 a crumb, a giggle, a place to rest. Words come slowly; kindness comes first.\n\nThere is no rush in Mochi lore. Just warm fur, gentle eyes, and a promise that soft is enough. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
